@@ -1,0 +1,33 @@
+https://inertiajs.com/ ok
+https://vuejs.org/ ok
+https://router.vuejs.org/ ok
+https://pinia.vuejs.org/ ok
+https://vuex.vuejs.org/ ok
+https://nuxtjs.org/ ok
+https://nuxt.com/ ok
+https://vue-native.io/ ok
+https://reactjs.org/ ok
+https://reactrouter.com/ ok
+https://nextjs.org/ ok
+https://reactnative.dev/  ok
+https://remix.run/ ok
+https://angular.io/ ok
+https://spring.io/ ok
+https://flutter.dev/ ok
+https://www.cypress.io/ ok
+https://vitest.dev/ ok
+https://vitejs.dev/ ok
+https://www.typescriptlang.org/ ok
+https://webpack.js.org/ ok
+https://firebase.google.com/ ok
+https://www.mongodb.com/ ok
+https://tailwindcss.com/ ok
+https://sass-lang.com/ ok
+https://www.python.org/ ok
+https://www.djangoproject.com/ ok
+
+
+
+https://nodejs.org/en/ no
+https://vee-validate.logaretm.com/v4/ no
+https://axios-http.com/docs/intro no
